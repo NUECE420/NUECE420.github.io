@@ -35,7 +35,7 @@ Office Hours: Thursday 3-5PM - write an email to [florian.willomitzer@northweste
 
 #### Teaching assistants  & Office Hours
 
-[Jiazhang Wang] 
+Jiazhang Wang 
 Mail: JiazhangWang2024 (a) u.northwestern.edu
 Office hours:  TBD.
 
