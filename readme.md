@@ -37,10 +37,11 @@ Office Hours: Thursday 3-5PM - write an email to [florian.willomitzer@northweste
 
 Jiazhang Wang 
 Mail: JiazhangWang2024 (a) u.northwestern.edu
+
 Office hours:  TBD.
 
 ### Policies 
-* *Grading:* Homeworks are worth 80% of the grade and the Final is worth 20% of the grade. Each homework consists of a coding and a technical writeup. Your coding must be correct, and your writeup must be clearly written. The final exam will be open-book and open-notes, but you may not discuss the test with anyone or consult with others. 100%-95% is an A, 95%-90% is an A-, 89%-85% is B, 84%-80% is B-, 79%-70% is C, 69%-60% is D.  
+* *Grading:* Homeworks are worth 80% of the grade, and there will be 5 homework assignments worth 12.5% of your grade each. Assignments will consist of a coding and a technical writeup. Your coding must be correct, and your writeup must be clearly written. The Final is worth 20% of the grade and will be open-book and open-notes, but you may not discuss the test with anyone or consult with others. 100%-95% is an A, 95%-90% is an A-, 89%-85% is B, 84%-80% is B-, 79%-70% is C, 69%-60% is D.  
 
 * *When and Where to Submit Assignments:*  Your matlab code and a PDF writeup report for each assignment must be submitted on [Canvas](http://www.it.northwestern.edu/education/login.html) by 11:59pm on the due date. 
 
