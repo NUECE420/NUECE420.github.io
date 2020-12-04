@@ -94,6 +94,6 @@ See CANVAS for the link to assignments. Homework is due and assigned on the date
 
 # Credits
 
-Course lectures and materials are adapted from the course EE 5374/7374 – Digital Image Processing, offered by Southern Methodist University.  
+Course lectures and materials are adapted from the course EE 5374/7374 – Digital Image Processing, offered by Southern Methodist University. Thanks and Aknowledgements to Prof. Prasanna Rangarajan for sharing materials from this course.    
 
 |[**Top**](#top)|  [**Calendar**](#calendar)| [**Links**](#links)| [**Slides**](#slides)|  [**Readings**](#readings)|
