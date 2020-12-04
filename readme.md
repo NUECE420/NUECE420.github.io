@@ -67,7 +67,7 @@ subject to change as the course progresses.
 | 1/26 | Tue | Spatial Domain Filtering I           |
 | 1/28 | Thu | Spatial Domain Filtering II       |
 | 2/02 | Tue | Fourier Domain Processing I: 1D Signals               |
-| 2/04 | Thu | Fourier Domain Processing II 2D Signals (Images)       |
+| 2/04 | Thu | Fourier Domain Processing II: 2D Signals (Images)       |
 | 2/09 | Tue | Image Restoration             |
 | 2/11 | Thu | Morphological Procesing        |
 | 2/16 | Tue | Edge Processing I: Detection         |
