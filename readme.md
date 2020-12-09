@@ -30,7 +30,7 @@ ECE420 lecture: All lectures will held live on zoom and linked through canvas. L
 [Oliver Cossairt](https://compphotolab.northwestern.edu/)
 Office Hours: Thursday 3-5PM - write an email to oliver.cossairt (a) northwestern.edu to book a 10min slot.
 
-[Florian Willomitzer](https://compphotolab.northwestern.edu/)
+[Florian Willomitzer](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/willomitzer-florian.html)
 Office Hours: Thursday 3-5PM - write an email to [florian.willomitzer@northwestern.edu](mailto:florian.willomitzer@northwestern.edu) to book a 10min slot.
 
 #### Teaching assistants  & Office Hours
