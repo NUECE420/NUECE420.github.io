@@ -93,7 +93,12 @@ See CANVAS for the link to assignments. Homework is due and assigned on the date
 | 3/02 | HW 5: Hough Transform | HW 4: Edge Processing | 
 | 3/11 |  | HW 5: Hough Transform | 
 
-# Credits
+### Recording of synchronous remote class sessions 
+This class or portions of this class will be recorded by the instructor for educational purposes and available to the class during the quarter. Your instructor will communicate how you can access the recordings. Portions of the course that contain images, questions or commentary/discussion by students will be edited out of any recordings that are saved beyond the current term.
+
+Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings – including distributing or posting them – is also prohibited.  Under the University’s Copyright Policy, faculty own the copyright to instructional materials – including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations. Students cannot copy, reproduce, display or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
+
+### Credits
 
 Course lectures and materials are adapted from the course EE 5374/7374 – Digital Image Processing, offered by Southern Methodist University. Thanks and Aknowledgements to Prof. Prasanna Rangarajan for sharing materials from this course.    
 
